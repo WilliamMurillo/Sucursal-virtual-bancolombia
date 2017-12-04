@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Vista.exe.config
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Vista.exe
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Vista.pdb
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Control.dll
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Modelo.dll
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Control.pdb
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\bin\Debug\Modelo.pdb
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.exe
+c:\users\user\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.pdb
+C:\Users\User\documents\visual studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.fmPrincipal.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.fmActualizarDatos.resources
+C:\Users\User\Downloads\SistemaSucursalVirtual\Vista\bin\Debug\Vista.exe.config
+C:\Users\User\Downloads\SistemaSucursalVirtual\Vista\obj\Debug\Vista.exe
+C:\Users\User\Downloads\SistemaSucursalVirtual\Vista\obj\Debug\Vista.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\SistemaSucursalVirtual\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
